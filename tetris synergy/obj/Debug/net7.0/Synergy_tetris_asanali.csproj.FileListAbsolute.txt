@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\Новая папка (4)\ConsoleTetris\bin\Debug\net7.0\Synergy_tetris_asanali.exe
+C:\Users\user\Desktop\Новая папка (4)\ConsoleTetris\bin\Debug\net7.0\Synergy_tetris_asanali.deps.json
+C:\Users\user\Desktop\Новая папка (4)\ConsoleTetris\bin\Debug\net7.0\Synergy_tetris_asanali.runtimeconfig.json
+C:\Users\user\Desktop\Новая папка (4)\ConsoleTetris\bin\Debug\net7.0\Synergy_tetris_asanali.dll
+C:\Users\user\Desktop\Новая папка (4)\ConsoleTetris\bin\Debug\net7.0\Synergy_tetris_asanali.pdb
+C:\Users\user\Desktop\Новая папка (4)\ConsoleTetris\obj\Debug\net7.0\Synergy_tetris_asanali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Новая папка (4)\ConsoleTetris\obj\Debug\net7.0\Synergy_tetris_asanali.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка (4)\ConsoleTetris\obj\Debug\net7.0\Synergy_tetris_asanali.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка (4)\ConsoleTetris\obj\Debug\net7.0\Synergy_tetris_asanali.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (4)\ConsoleTetris\obj\Debug\net7.0\Synergy_tetris_asanali.dll
+C:\Users\user\Desktop\Новая папка (4)\ConsoleTetris\obj\Debug\net7.0\refint\Synergy_tetris_asanali.dll
+C:\Users\user\Desktop\Новая папка (4)\ConsoleTetris\obj\Debug\net7.0\Synergy_tetris_asanali.pdb
+C:\Users\user\Desktop\Новая папка (4)\ConsoleTetris\obj\Debug\net7.0\Synergy_tetris_asanali.genruntimeconfig.cache
+C:\Users\user\Desktop\Новая папка (4)\ConsoleTetris\obj\Debug\net7.0\ref\Synergy_tetris_asanali.dll
+C:\Users\user\Desktop\ConsoleTetris\bin\Debug\net7.0\Synergy_tetris_asanali.exe
+C:\Users\user\Desktop\ConsoleTetris\bin\Debug\net7.0\Synergy_tetris_asanali.deps.json
+C:\Users\user\Desktop\ConsoleTetris\bin\Debug\net7.0\Synergy_tetris_asanali.runtimeconfig.json
+C:\Users\user\Desktop\ConsoleTetris\bin\Debug\net7.0\Synergy_tetris_asanali.dll
+C:\Users\user\Desktop\ConsoleTetris\bin\Debug\net7.0\Synergy_tetris_asanali.pdb
+C:\Users\user\Desktop\ConsoleTetris\obj\Debug\net7.0\Synergy_tetris_asanali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ConsoleTetris\obj\Debug\net7.0\Synergy_tetris_asanali.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ConsoleTetris\obj\Debug\net7.0\Synergy_tetris_asanali.AssemblyInfo.cs
+C:\Users\user\Desktop\ConsoleTetris\obj\Debug\net7.0\Synergy_tetris_asanali.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ConsoleTetris\obj\Debug\net7.0\Synergy_tetris_asanali.dll
+C:\Users\user\Desktop\ConsoleTetris\obj\Debug\net7.0\refint\Synergy_tetris_asanali.dll
+C:\Users\user\Desktop\ConsoleTetris\obj\Debug\net7.0\Synergy_tetris_asanali.pdb
+C:\Users\user\Desktop\ConsoleTetris\obj\Debug\net7.0\Synergy_tetris_asanali.genruntimeconfig.cache
+C:\Users\user\Desktop\ConsoleTetris\obj\Debug\net7.0\ref\Synergy_tetris_asanali.dll
